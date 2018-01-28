@@ -1,0 +1,15 @@
+/* Bootstrap modifications */
+/* Cadre propre pour les formulaires à tabulation */
+.panel-tab-content{
+  border-color: #dddddd;
+  border-top:none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  padding: 10px 15px;
+}
+/* Champs boligatoire */
+.required:after{
+  color: red;
+  content: ' *';
+  font-size: 1.2em;
+}
