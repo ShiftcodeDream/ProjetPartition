@@ -12,15 +12,13 @@ Contient le pied de page, si nous décidons d'en mettre un.
 
 Ainsi, la structure minimale d'un fichier .php affichant des infos à l'écran sera de la forme suivante :
 
-`
-<?php
-include "_header.php";
-
-... Contenu du fichier php ...
-
-include "_footer.php";
-?>
-`
+    <?php
+    include "_header.php";
+    
+    ... Contenu du fichier php ...
+    
+    include "_footer.php";
+    ?>
 
 ### Dossier Bootstrap
 Contient le framework bootstrap et tout ce dont il a besoin pour fonctionner (sauf jQuery, placé à part)
@@ -28,12 +26,12 @@ Il sera possible de changer le look and feel de l'application en utilisant les f
 
 ## Dossier ressources
 Contient les ressources statiques suivantes :
-### css
+### Dossier ressources/css
 Les modifications de feuille de style pour adapter l'affichage si besoin.
 
-### js
+### Dossier ressources/js
 Les scripts JavaScript à intégrer
 
-### images
+### Dossier ressources/images
 Les images statiques et la favicon du site
 
