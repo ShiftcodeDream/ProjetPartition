@@ -47,19 +47,19 @@ include "_header.php";
           </thead>
           <tbody>
             <tr>
-              <td><a href="#">La Traviata</a></td>
+              <td><a href="oeuvre.php">La Traviata</a></td>
               <td>Giuseppe Verdi</td>
               <td>15/05/1995</td>
-              <td class="text-right"><a href="#">55956</a></td>
+              <td class="text-right"><a href="oeuvre.php">55956</a></td>
               <td class="text-center">oui</td>
               <td class="text-center">oui</td>
               <td class="text-center">oui</td>
             </tr>
             <tr>
-              <td><a href="#">Bohemian Rhapsody</a></td>
-              <td>Freddi Mercury</td>
+              <td><a href="oeuvre.php">Bohemian Rhapsody</a></td>
+              <td>Freddie Mercury</td>
               <td>05/10/2003</td>
-              <td class="text-right"><a href="#">55954</a></td>
+              <td class="text-right"><a href="oeuvre.php">55954</a></td>
               <td class="text-center">oui</td>
               <td class="text-center">oui</td>
               <td class="text-center">oui</td>
