@@ -20,3 +20,9 @@
 .titre-oeuvre{
   font-size: 1.2em;
 }
+th input, th select{
+  font-weight:normal;
+}
+tr.filter{
+  background-color:#eee;
+}
