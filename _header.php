@@ -44,7 +44,7 @@ header("Content-type: text/html; charset=utf8");
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Oeuvres <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="#">Les oeuvres</a></li>
+              <li><a href="oeuvre.php">Les oeuvres</a></li>
               <li><a href="#">Les partitions</a></li>
               <li><a href="#">Les chemises</a></li>
             </ul>

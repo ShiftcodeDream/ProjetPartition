@@ -64,7 +64,6 @@ include "_header.php";
       <div class="row" style="display:none">
         
         Fichier à télécharger : <input type="file">
-        
       </div>
     </div>
     

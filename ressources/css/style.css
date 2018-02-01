@@ -5,7 +5,7 @@
   border-top:none;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
-  padding: 10px 15px;
+  padding: 10px 0;*/
 }
 /* Champs boligatoire */
 .required:after{
@@ -47,5 +47,12 @@ tbody tr:hover{
   background-color:#a0d0eb;
 }
 .sel-instru{
-  Background-color:#1aa51f;
+  border:3px solid orange;
+}
+.sel-instru:before{
+  font-family:'Glyphicons Halflings';
+  content:"\e013";
+  color:DarkGreen;
+  font-size:0.8em;
+  padding-right:5px;
 }
